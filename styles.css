@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+h1{
+color: red;
+text-align: center;
+}
+
+body {
+    background-image: url('https://www.kleo.ru/img/items/110383_37052214_orig.jpg');
+
+      background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+    color: white;
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+
+}
+h2{
+color: black;
+text-align: center;}
+p{
+font-weight:400px;
+font-height:400px:
+}
